@@ -33,6 +33,8 @@
 
 ## About The Project
 
+https://user-images.githubusercontent.com/22106326/188344255-bc4cc675-706a-4a01-8c2a-3af799afe14f.mp4
+
 <div align="center">
   <a href="https://github.com/xandao6/ugly-rc-car">
     <img src="./assets/car-finished.jpg" alt="rc car finished">
