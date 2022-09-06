@@ -5,11 +5,11 @@
     A RC car with very bad mechanics (made with popsicle sticks), controlled by bluetooth.
     <br />
     <br />
-    <a href="https://github.com/xandao6/ugly-rc-car"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/xandao-dev/ugly-rc-car"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/xandao6/ugly-rc-car/issue">Report Bug</a>
+    <a href="https://github.com/xandao-dev/ugly-rc-car/issue">Report Bug</a>
     ·
-    <a href="https://github.com/xandao6/ugly-rc-car/issues">Request Feature</a>
+    <a href="https://github.com/xandao-dev/ugly-rc-car/issues">Request Feature</a>
   </p>
 </p>
 
@@ -36,7 +36,7 @@
 https://user-images.githubusercontent.com/22106326/188344255-bc4cc675-706a-4a01-8c2a-3af799afe14f.mp4
 
 <div align="center">
-  <a href="https://github.com/xandao6/ugly-rc-car">
+  <a href="https://github.com/xandao-dev/ugly-rc-car">
     <img src="./assets/car-finished.jpg" alt="rc car finished">
     <img src="./assets/car-open.jpg" alt="rc car open">
     <img src="./assets/schematic.png" alt="rc car schematic">
@@ -61,7 +61,7 @@ https://user-images.githubusercontent.com/22106326/188344255-bc4cc675-706a-4a01-
 
 ## Roadmap
 
-See the [open issues](https://github.com/xandao6/ugly-rc-car/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/xandao-dev/ugly-rc-car/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 
@@ -81,6 +81,6 @@ Free software =)
 
 ## Contact
 
-Alexandre Calil - [@xandao6](https://www.linkedin.com/in/xandao6/) - alexandrecalilmf@gmail.com
+Alexandre Calil - [Linkedin](https://www.linkedin.com/in/xandao-dev/) - [alexandre@xandao.dev](mailto:alexandre@xandao.dev)
 
-Project Link: [https://github.com/xandao6/ugly-rc-car](https://github.com/xandao6/ugly-rc-car)
+Project Link: [https://github.com/xandao-dev/ugly-rc-car](https://github.com/xandao-dev/ugly-rc-car)
